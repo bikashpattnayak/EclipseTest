@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("God");
 		
 		System.out.println("test file");
+		System.out.println("test file");
 	}
 
 }
